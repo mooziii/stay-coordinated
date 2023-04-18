@@ -16,8 +16,8 @@ Stay coordinated when having reduced debug-info enabled.
 This is a single-mixin mod to display coordinates when reduced debug info is enabled.
 
 [![GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/mooziii/stay-coordinated)
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://www.urbandictionary.com/define.php?term=soon%20%28tm%29)
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.urbandictionary.com/define.php?term=soon%20%28tm%29)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/stay-coordinated)
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.urbandictionary.com/define.php?term=soon%20%28tm%29)
 
 
 [![Torch](https://i.imgur.com/R5QNgp0.png)](https://github.com/mooziii/torch)
