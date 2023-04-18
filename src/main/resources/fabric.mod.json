@@ -8,9 +8,9 @@
     "MooZiii"
   ],
   "contact": {
-    "sources": "https://github.com/mooziii/staycoordinated",
-    "issues": "https://github.com/mooziii/staycoordinated/issues",
-    "homepage": "https://github.com/mooziii/staycoordinated"
+    "sources": "https://github.com/mooziii/stay-coordinated",
+    "issues": "https://github.com/mooziii/stay-coordinated/issues",
+    "homepage": "https://github.com/mooziii/stay-coordinated"
   },
   "license": "MIT",
   "icon": "assets/staycoordinated/icon.png",
