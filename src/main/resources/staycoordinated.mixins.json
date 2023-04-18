@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.eumel.staycoordinated.mixin",
+  "compatibilityLevel": "JAVA_11",
+  "client": [
+    "MixinDebugScreenOverlay"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "staycoordinated",
+  "version": "1.0.0",
+  "name": "Stay Coordinated!",
+  "description": "Display coordinates when reduced debug info is enabled.",
+  "authors": [
+    "MooZiii"
+  ],
+  "contact": {
+    "sources": "https://github.com/mooziii/staycoordinated",
+    "issues": "https://github.com/mooziii/staycoordinated/issues",
+    "homepage": "https://github.com/mooziii/staycoordinated"
+  },
+  "license": "MIT",
+  "icon": "assets/staycoordinated/icon.png",
+  "environment": "client",
+  "mixins": [
+    "staycoordinated.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.19"
+  }
+}
